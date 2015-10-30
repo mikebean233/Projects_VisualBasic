@@ -1,0 +1,30 @@
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\bin\Debug\finally.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\bin\Debug\finally.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\bin\Debug\finally.xml
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Dialog1.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Dialog2.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Dialog3.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Dialog4.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\finally.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\finally.xml
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\Finally\Backup\finally\obj\Debug\finally.pdb
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\finally.exe
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\finally.xml
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\finally.pdb
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\finally.vbprojResolveAssemblyReference.cache
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Dialog1.resources
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Dialog2.resources
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Dialog3.resources
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Dialog4.resources
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Form1.resources
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\WindowsApplication1.Resources.resources
+Y:\temp\Projects\Finally\Backup\finally\obj\Debug\finally.vbproj.GenerateResource.Cache
+Y:\temp\Projects\Finally\Backup\finally\bin\Debug\finally.exe
+Y:\temp\Projects\Finally\Backup\finally\bin\Debug\finally.pdb
+Y:\temp\Projects\Finally\Backup\finally\bin\Debug\finally.xml
+Y:\temp\Projects\Finally\Backup\finally\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll

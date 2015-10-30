@@ -1,0 +1,15 @@
+Y:\Projects_VisualBasic\Graph\bin\Debug\Graph.exe
+Y:\Projects_VisualBasic\Graph\bin\Debug\Graph.pdb
+Y:\Projects_VisualBasic\Graph\bin\Debug\Graph.xml
+Y:\Projects_VisualBasic\Graph\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+Y:\Projects_VisualBasic\Graph\obj\Debug\Graph.vbprojResolveAssemblyReference.cache
+Y:\Projects_VisualBasic\Graph\obj\Debug\WindowsApplication1.Dialog1.resources
+Y:\Projects_VisualBasic\Graph\obj\Debug\WindowsApplication1.Dialog2.resources
+Y:\Projects_VisualBasic\Graph\obj\Debug\WindowsApplication1.Dialog3.resources
+Y:\Projects_VisualBasic\Graph\obj\Debug\WindowsApplication1.Dialog4.resources
+Y:\Projects_VisualBasic\Graph\obj\Debug\WindowsApplication1.Form1.resources
+Y:\Projects_VisualBasic\Graph\obj\Debug\WindowsApplication1.Resources.resources
+Y:\Projects_VisualBasic\Graph\obj\Debug\Graph.vbproj.GenerateResource.Cache
+Y:\Projects_VisualBasic\Graph\obj\Debug\Graph.exe
+Y:\Projects_VisualBasic\Graph\obj\Debug\Graph.xml
+Y:\Projects_VisualBasic\Graph\obj\Debug\Graph.pdb
